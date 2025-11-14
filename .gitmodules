@@ -1,0 +1,3 @@
+[submodule "my-app"]
+	path = my-app
+	url = file:///C:/Users/Admin/Desktop/MERN Stack/Week 3/my-app/.git
